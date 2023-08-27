@@ -1,5 +1,5 @@
 # Personal Info #
-![Pranay](NPranay.jpg)
+img align="center"![Pranay](NPranay.jpg)
 - **Narava Pranay Manikanta,**
 - 4713 Belwood Green, Halethorpe, MD 21227.
 - Email: npranayamanikanta@gmail.com.
@@ -10,14 +10,14 @@
 
 ## Educational Background ##
 - **University of Maryland Baltimore County Baltimore (U M B C)**,
-- - Master of Professional Studies 
-  - Data Science
-  - CGPA:3.7
-  - Expected in December 2023
+  - _Master of Professional Studies_ 
+  - _Data Science_
+  - _CGPA:3.7_
+  - _Expected in December 2023_
 - **KL Deemed to be University** In India
-- - Bachelor of Technology
-  - Electronics and Communication Engineering(E C E)
-  - Graduated in May 2020.
+  - _Bachelor of Technology_
+  - _Electronics and Communication Engineering(E C E)_
+  - _Graduated in May 2020_
 
 
 ## Experience ##
