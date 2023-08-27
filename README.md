@@ -9,8 +9,15 @@
 
 
 ## Educational Background ##
-- **University of Maryland Baltimore County Baltimore (U M B C)**,                       Master of Professional Studies / Data Science CGPA:3.7 / Expected in December 2023
-- I Completed my **Undergraduate** B.tech in Electronics and Communication Engineering(E C E) in **KL Deemed to be University** In India.
+- **University of Maryland Baltimore County Baltimore (U M B C)**,
+- - Master of Professional Studies 
+  - Data Science
+  - CGPA:3.7
+  - Expected in December 2023
+- **KL Deemed to be University** In India
+- - Bachelor of Technology
+  - Electronics and Communication Engineering(E C E)
+  - Graduated in May 2020.
 
 
 ## Experience ##
