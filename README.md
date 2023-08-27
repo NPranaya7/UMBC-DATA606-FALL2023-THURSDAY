@@ -22,7 +22,8 @@
 
 ## Experience ##
 **BWTech@UMBC**     
-_MD New Venture Fellowship Program | Jan 2023 to May 2023 | Catonsville, MD_
+_MD New Venture Fellowship Program    
+| Jan 2023 to May 2023 | Catonsville, MD_
 
 - During my professional experience, I made significant contributions to the project Pneuma, which aimed to combat stress and address substance abuse through neuro-technology.
 - Led customer discovery efforts, conducting surveys and interviews with 100+ individuals to understand their needs and preferences. And developed a comprehensive business plan, outlining market analysis, competitive 
