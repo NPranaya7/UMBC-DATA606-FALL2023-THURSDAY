@@ -3,7 +3,7 @@
 
 
 <p align="center">
-    ![Pranay](NPranay.jpg)
+    <![Pranay](NPranay.jpg)>
 </p>
 
 
