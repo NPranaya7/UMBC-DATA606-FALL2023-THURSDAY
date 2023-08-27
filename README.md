@@ -3,11 +3,11 @@
 
 
 <p align="center">
-    <img width="200" NPranay.jpg alt="Pranay">
+    <img width="200" src = NPranay.jpg alt="Pranay">
 </p>
 
 
-<p align="center">  <![Pranay](NPranay.jpg)> </p>
+![Pranay](NPranay.jpg)
 
 ## Narava Pranay Manikanta | 4713 Belwood Green, Halethorpe, MD 21227 | Email: npranayamanikanta@gmail.com.
 
