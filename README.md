@@ -14,16 +14,23 @@
   - _Data Science_
   - _CGPA:3.7_
   - _Expected in December 2023_
-- **KL Deemed to be University** In India
+    
+- **Koneru Lakshmaiah Education Foundation Andhra Pradesh, India**
   - _Bachelor of Technology_
   - _Electronics and Communication Engineering(E C E)_
   - _Graduated in May 2020_
 
 
 ## Experience ##
+**SONAVI LABS**
+_Data Science Intern   
+Jul 2023 to currently   
+Baltimore, MD_
+
+- 
 **BWTech@UMBC**     
 _MD New Venture Fellowship Program    
-Jan 2023 to May 2023   
+Jan 2023 to May 2023    
 Catonsville, MD_
 
 - During my professional experience, I made significant contributions to the project Pneuma, which aimed to combat stress and address substance abuse through neuro-technology.
@@ -42,22 +49,57 @@ landscape, and revenue projections, resulting in a 30% increase in projected pro
 - Gained valuable insights into best practices in software coding through mentorship, and implementing industry-standard techniques that improved the overall quality and efficiency of the project.
 - Conducted code reviews and collaborated with the development team to identify and resolve critical issues, resulting in a 40% decrease in bug occurrences.
 
+## LEADERSHIP EXPERIENCE ##
+**UMBC Event Centre**    
+_Event Staff    
+March 2022 to Jan 2023   
+Catonsville, MD_
+
+- I am a member of the event staff at the UMBC Event Center. During this time, I gained a few crucial abilities, like time management, People Skills, communication, empathy, and emotional intelligence.
+
+**Koneru Lakshmaiah Education Foundation Andhra Pradesh, India**   
+_Student Event Coordinator   
+Jan 2019 to Mar 2019_
+
+- Planned large & small-scale events such as talks, conferences, and workshops.
+- Monitor event activities to ensure compliance with applicable regulations and laws, the satisfaction of participants, and the resolution of any problems that arise.
+
+## SKILLS & INTERESTS ##
+- **Technical Skills:** Python, Data analysis, Excel, SQL, Statistics Tableau, Microsoft Power BI, Data Analysis, Data visualizations, Data Management, Data cleansing, ETL (Extract, Transform, Load), Data pipelines,
+Predictive modeling, Data-driven decision making, Machine Learning, Big Data, Apache Spark, Hadoop, Dask, Snowflake, Data Bricks, Docker, Edge Computing like Jetson Nano, and Rapids (GPU Accelerated Computing).
+
+- **Soft Skills:** People Skills, Problem-Solving Ability, Leadership, Time Management, Communication.
+
+## ACHIEVEMENT ##
+**Award Winner at MD New Venture Fellowship program 08 Nov’23,**
+- I was honored to be awarded a $ 5,000 grant towards the development of PNEUMA, a revolutionary neuro-technology product aimed at combatting stress and addressing the root causes of substance use disorder (SUD). 
+  - Article:- https://technical.ly/startups/2023-maryland-new-venture-fellowship-program/
+  - LinkedIn:- https://www.linkedin.com/posts/pranayamanikanta07_awardwinning-bwtech-fellowshipprogram-activity-7061735646876332032-gGaY?utm_source=share&utm_medium=member_desktop
+  
+## PUBLICATIONS: ##
+**Defect Detection using Active Contour Method 30 Nov'19,**   
+_D4509118419 - International Journal of Recent Technology and Engineering (IJRTE)_
+- Conducted research utilizing Active Contour segmentation and infrared thermography for nondestructive testing. 
+- Developed an innovative method achieving 85% accuracy in classifying defects such as air, oil, water, and cracks in the subsurface area.
+- Improved defect detection efficiency by 30% and reduced false positives by 25%, enhancing inspection capabilities.
+
+
 ## Bussiness Skills ##
 - Management and Leadership.
 - Project management.
 - Time management.
-- Problem solving.
+- Problem-solving.
 - Communication Skills.
 
 ## Technical/computer skills ##
 - Programming languages --> **C**, **Java**, **Python**.
 - Data Management.
-- Software proficiency --> Excell, Matlab, GitHub, Tableau, Google colab, Jupiter notebook,.....
+- Software proficiency --> Excell, Matlab, GitHub, Tableau, Google Colab, Jupiter notebook,.....
 - Operating Systems --> Windows, Mac OS, Linux.
 
 ## Awards ##
 - Best Co-ordinator for National Level Technical Fest **"Samyak"**,2019 KL university(India).
-- Badminton Campionship, 2016 KL university(India). 
+- Badminton Championship, 2016 KL university(India). 
 
 ## Social activities ##
 - Video games.
