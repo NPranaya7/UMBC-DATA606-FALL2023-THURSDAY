@@ -1,5 +1,5 @@
 # Personal Info #
-![Pranay](NPranay.png)
+![Pranay](NPranay.jpg)
 - **Narava Pranay Manikanta,**
 - 219 Garden Ridge Road, Apt B, Catonsville.Zip code:21228.
 - Email: npranayamanikanta@gmail.com.
