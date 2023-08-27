@@ -21,7 +21,7 @@
 
 
 ## Experience ##
-**BWTech@UMBC**    
+**BWTech@UMBC**
 _MD New Venture Fellowship Program | Jan 2023 to May 2023 | Catonsville, MD_
 
 - During my professional experience, I made significant contributions to the project Pneuma, which aimed to combat stress and address substance abuse through neuro-technology.
@@ -31,7 +31,7 @@ landscape, and revenue projections, resulting in a 30% increase in projected pro
 - Presented project pitches to investors, achieving a 70% success rate in securing funding and garnering a $5000 grant as recognition for project excellence.
   
 **Subrains Solutions Private Limited**
- _Python Developer Intern | May 2019 to Jun 2019 | Vijayawada, Andhra Pradesh, India_
+ _Python Developer Intern | May 2019 to Jun 2019 |  Andhra Pradesh, India_
     
 - I made notable contributions to the development of the Learning Module System (L.M.S), a platform facilitating student and teacher interaction.
 - Developed clean and well-tested code for the L.M.S project, ensuring optimal performance and functionality.
