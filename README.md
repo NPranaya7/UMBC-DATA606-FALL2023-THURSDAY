@@ -1,6 +1,6 @@
 # Personal Info #
 ![Pranay](NPranay.jpg)
-- **Narava Pranay Manikanta,**
+- ## Narava Pranay Manikanta ##
 - 4713 Belwood Green, Halethorpe, MD 21227.
 - Email: npranayamanikanta@gmail.com.
 
