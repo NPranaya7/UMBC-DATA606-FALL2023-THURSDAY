@@ -1,17 +1,17 @@
 # Personal Info #
 ![Pranay](NPranay.jpg)
 - **Narava Pranay Manikanta,**
-- 219 Garden Ridge Road, Apt B, Catonsville.Zip code:21228.
+- 4713 Belwood Green, Halethorpe, MD 21227.
 - Email: npranayamanikanta@gmail.com.
 
 ## Summary ##
-- I am a Self Motivated and hard working graduate seeking an opportunity to work in a challenging environment to prove my skills and knowledege. which was used For the Growth of the Organization.i intend to be a part of organization where i can make best use of my skills to make significant contributions to the society and the company. while i consistently learning and pursuing my individual Growth.
-- My career Objective is to see myself in one of the most leading role in a company in the next 5 year's.
+- Confident and driven data science professional seeking an entry-level position in a professional company. Highly motivated and detail-oriented, passionate about leveraging data to drive insights and solve complex problems. Proficient in data modeling techniques and adept at harnessing technology to address real-world challenges. I am known for my ability to grasp new concepts and adapt to diverse work environments quickly. Eager to contribute my skills and continue learning in the dynamic field of data science. With a solid commitment to excellence, I am poised to make a positive impact and grow alongside a forward-thinking organization.
 
 
 ## Educational Background ##
-- I Completed my **Under-graduation** B.tech in Electronics and Communication Engineering(E C E) in **KL Deemed to be University** In India.
-- Currently Pursuing **M P S** in Data Science From University of MaryLand,Baltimore County **(U M B C)**.
+- **University of Maryland Baltimore County Baltimore (U M B C)**,                       Master of Professional Studies / Data Science CGPA:3.7 / Expected in December 2023
+- I Completed my **Undergraduate** B.tech in Electronics and Communication Engineering(E C E) in **KL Deemed to be University** In India.
+
 
 ## Experience ##
 - I Done One month Industrial Intership on Python Programming in **SUBRAINS Solutions PVT LTD** (Startup), India.
