@@ -1,5 +1,5 @@
 <p align="center">
-  <h1>Personal Info</h1>
+<h1>Personal Info</h1>
 </p>
 
 
