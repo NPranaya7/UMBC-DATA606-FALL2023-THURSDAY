@@ -1,8 +1,8 @@
 # Personal Info
 
-**Narava Pranay Manikanta  ![Pranay](NPranay.jpg) | _Email: npranayamanikanta@gmail.com_ | 4713 Belwood Green, Halethorpe, MD 21227** 
+![Pranay](NPranay.jpg)
 
-
+**Narava Pranay Manikanta | _Email: npranayamanikanta@gmail.com_ | 4713 Belwood Green, Halethorpe, MD 21227** 
 
 ## Summary ##
 - Confident and driven data science professional seeking an entry-level position in a professional company. Highly motivated and detail-oriented, passionate about leveraging data to drive insights and solve complex problems. Proficient in data modeling techniques and adept at harnessing technology to address real-world challenges. I am known for my ability to grasp new concepts and adapt to diverse work environments quickly. Eager to contribute my skills and continue learning in the dynamic field of data science. With a solid commitment to excellence, I am poised to make a positive impact and grow alongside a forward-thinking organization.
