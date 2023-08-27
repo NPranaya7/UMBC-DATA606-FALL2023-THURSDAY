@@ -5,7 +5,7 @@
 **Pranay Manikanta Narava   
 _Email: npranayamanikanta@gmail.com_    
 4713 Belwood Green, Halethorpe, MD 21227  
-Portfolio: https://github.com/NPranaya7/Portfolio_Projects
+Portfolio: https://github.com/NPranaya7/Portfolio_Projects   
 LinkedIn: https://www.linkedin.com/in/pranayamanikanta07** 
 
 ## Summary ##
