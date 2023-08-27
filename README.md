@@ -21,8 +21,18 @@
 
 
 ## Experience ##
-- I Done One month Industrial Intership on Python Programming in **SUBRAINS Solutions PVT LTD** (Startup), India.
-- I Worked for 6 Months As a Data Entry intern in Veda Poly Products PVT LTD, India.
+**BWTech@UMBC Catonsville, MD  |  MD New Venture Fellowship Program Jan 2023 to May 2023**
+- During my professional experience, I made significant contributions to the project Pneuma, which aimed to combat stress and address substance abuse through neuro-technology.
+- Led customer discovery efforts, conducting surveys and interviews with 100+ individuals to understand their needs and preferences. And developed a comprehensive business plan, outlining market analysis, competitive 
+landscape, and revenue projections, resulting in a 30% increase in projected profitability.
+- Created financial models, including cash flow projections leading to a 25% reduction in projected costs.
+- Presented project pitches to investors, achieving a 70% success rate in securing funding and garnering a $5000 grant as recognition for project excellence.
+  
+**Subrains Solutions Private Limited Andhra Pradesh, India  |  Python Developer Intern May 2019 to Jun 2019**
+- I made notable contributions to the development of the Learning Module System (L.M.S), a platform facilitating student and teacher interaction.
+- Developed clean and well-tested code for the L.M.S project, ensuring optimal performance and functionality.
+- Gained valuable insights into best practices in software coding through mentorship, and implementing industry-standard techniques that improved the overall quality and efficiency of the project.
+- Conducted code reviews and collaborated with the development team to identify and resolve critical issues, resulting in a 40% decrease in bug occurrences.
 
 ## Bussiness Skills ##
 - Management and Leadership.
