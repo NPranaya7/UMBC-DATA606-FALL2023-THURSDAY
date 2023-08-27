@@ -3,7 +3,7 @@
 
 
 <p align="center">
-    <img width="200" src = NPranay.jpg alt="Pranay">
+    <img width="200" src = (NPranay.jpg) alt="Pranay">
 </p>
 
 
