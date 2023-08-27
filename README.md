@@ -80,7 +80,7 @@ Predictive modeling, Data-driven decision making, Machine Learning, Big Data, Ap
     
 **Badminton Championship, 2016 KL university(India)**
   
-## PUBLICATIONS: ##
+## PUBLICATIONS ##
 **Defect Detection using Active Contour Method 30 Nov'19,**   
 _D4509118419 - International Journal of Recent Technology and Engineering (IJRTE)   
 Link: https://www.ijrte.org/portfolio-item/D4509118419/_
@@ -93,3 +93,43 @@ Link: https://www.ijrte.org/portfolio-item/D4509118419/_
 - _[Deep Learning](https://coursera.org/share/eef1316a10ebe3590db22e1b652c80df)._
 - _[Learn Spanish: Basic Spanish Vocabulary Specialization](https://coursera.org/share/fbe78a7a29aebbe0805e60146f0a423c)._
 - _[Data Science](https://trainings.internshala.com/s/v/237938/d55b7788)._
+
+## PROJECTS ##
+**How country's GDP affect the Unemployment rate and what are the other Causes of Unemployment,**
+- This project explores the relationship between a country's GDP and its unemployment rate, we focused on 
+Okun's Law and its impact on economic growth and unemployment rates. My analysis Confirmed that Okun's 
+Law generally holds, with a 1% reduction in unemployment requiring approximately 4% GDP growth for a 
+year.
+- I also identified exceptions to Okun's Law, such as during the 2008 recession in the United States and the 
+United Kingdom. And identified additional factors impacting the unemployment rate, including jobless 
+recoveries and personnel inefficiencies.
+- To conduct this study, I meticulously collected and analyzed data, ensuring the accuracy of our analysis. 
+Additionally, I identified and examined other influential factors that contribute to changes in the unemployment 
+rate. By utilizing data visualization techniques, specifically Seaborn & Plotly in Python, I effectively identified 
+trends, patterns, and correlations in complex data sets.
+
+**Financial Risk Analysis of Foreign Market Using CAPM and Fama French 3 Factor Model,**
+- In this project, we focused on analyzing the risk associated with investing in foreign stock markets. 
+Specifically, we explored the limitations of the Capital Asset Pricing Model (CAPM) and discussed how the 
+FAMA French 3 Factor Model (FF3F) is a better alternative.
+- Our analysis revealed that CAPM is generating inaccurate forecasts due to its reliance on a single factor -
+market risk. In contrast, the FF3F model incorporates additional factors such as size and value, which provide 
+a more accurate forecast. By using FF3F, we were able to make more informed investment decisions resulting in 
+a 15% increase in portfolio returns.
+
+**Airline Revenue Forecasting Using the Univariate Time Series,**
+- In this project. Using time series models, we were able to predict and forecast the revenue of major US airlines 
+operating from major US hubs. We applied five univariate time series models to the data and, with the help of 
+statistical tests, determined that the SARIMA model was the most precise at predicting and forecasting the trend 
+due to seasonality.
+- This project has demonstrated that time series models, specifically SARIMA, can help identify future revenue 
+with better accuracy. As a result, this will aid airline industries in making better decisions and ultimately 
+improve overall revenue.
+
+**Edge Computing: Computer Vision – Image Classification identifying the type of lung diseases,**
+- Developed a computer vision application utilizing edge computing techniques to perform image classification 
+for the identification of various types of lung diseases.
+- Leveraged Machine learning algorithms to analyze medical images, such as X-rays and CT scans, for accurate 
+disease detection.
+- Implemented the project to run on edge devices such as Jetson Nano, ensuring real-time and efficient processing 
+without relying on cloud infrastructure.
