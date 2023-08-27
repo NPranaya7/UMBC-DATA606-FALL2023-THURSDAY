@@ -1,7 +1,7 @@
 <h1 align="center">Personal Info</h1>
 
 <p align="center">
-<img src="https://github.com/NPranaya7/UMBC-DATA606-FALL2023-THURSDAY/blob/main/NPranay.jpg" width="100" height="100" border="10"/>
+<img src="https://github.com/NPranaya7/UMBC-DATA606-FALL2023-THURSDAY/blob/main/NPranay.jpg"/>
 </p>
 
 
