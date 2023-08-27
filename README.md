@@ -1,9 +1,6 @@
-<h1 align="center">Personal Info</h1>
+# Personal Info
 
-<p align="center">
-<img src="https://github.com/NPranaya7/UMBC-DATA606-FALL2023-THURSDAY/blob/main/NPranay.jpg"/>
-</p>
-
+![Pranaya][NPranay.jpeg]
 
 <p align="center">Narava Pranay Manikanta | 4713 Belwood Green, Halethorpe, MD 21227 | Email: npranayamanikanta@gmail.com</p>
 
