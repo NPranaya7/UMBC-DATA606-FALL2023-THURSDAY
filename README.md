@@ -1,4 +1,9 @@
-# Personal Info #
+<p align="center">
+  # Personal Info #
+</p>
+
+
+
 <p align="center">
   <![Pranay](NPranay.jpg)>
 </p>
