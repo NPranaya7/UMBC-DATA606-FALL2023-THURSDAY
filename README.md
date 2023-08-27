@@ -29,7 +29,11 @@ _Data Science Intern
 Jul 2023 to currently   
 Baltimore, MD_
 
-- 
+- In my role as a Data Science Intern, I will be tasked with a variety of responsibilities that benefit the company
+- I will be responsible for developing Machine learning and Neural network models that can accurately classify various indicators, as well as extracting key features from training data.
+- Additionally, I will be assisting in critical data tagging and validation processes, ensuring that all data is accurate and reliable.
+- Finally, I will play a key role in contributing to the development of the company's data science pipeline, helping to ensure that data analysis processes are efficient, effective, and cutting-edge.
+ 
 **BWTech@UMBC**     
 _MD New Venture Fellowship Program    
 Jan 2023 to May 2023    
