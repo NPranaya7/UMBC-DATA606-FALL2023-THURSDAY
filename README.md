@@ -1,12 +1,13 @@
-<h1 align="center">Material Bread</h1>
-
-<p align="center"><h1>Personal Info</h1></p>
+<h1 align="center">Personal Info</h1>
 
 
 
 <p align="center">
-  <![Pranay](NPranay.jpg)>
+    <img width="200" NPranay.jpg alt="Pranay">
 </p>
+
+
+<p align="center">  <![Pranay](NPranay.jpg)> </p>
 
 ## Narava Pranay Manikanta | 4713 Belwood Green, Halethorpe, MD 21227 | Email: npranayamanikanta@gmail.com.
 
