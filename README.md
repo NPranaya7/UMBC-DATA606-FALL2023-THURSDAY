@@ -1,6 +1,4 @@
-<p align="center">
-<h1>Personal Info</h1>
-</p>
+<p align="center"><h1>Personal Info</h1></p>
 
 
 
