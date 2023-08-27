@@ -75,7 +75,9 @@ Predictive modeling, Data-driven decision making, Machine Learning, Big Data, Ap
 ## ACHIEVEMENT ##
 **Award Winner at MD New Venture Fellowship program 08 Nov’23,**
 - I was honored to be awarded a $ 5,000 grant towards the development of PNEUMA, a revolutionary neuro-technology product aimed at combatting stress and addressing the root causes of substance use disorder (SUD). 
-  - Article:- https://technical.ly/startups/2023-maryland-new-venture-fellowship-program/
+  - Article:-
+    - (Technical.ly) https://technical.ly/startups/2023-maryland-new-venture-fellowship-program/
+    - (The Daily Record) https://thedailyrecord.com/2023/06/23/bwtechumbc-pitch-night-closes-2023-maryland-new-venture-fellowship-program/
   - LinkedIn:- https://www.linkedin.com/posts/pranayamanikanta07_awardwinning-bwtech-fellowshipprogram-activity-7061735646876332032-gGaY?utm_source=share&utm_medium=member_desktop
     
 **Badminton Championship, 2016 KL university(India)**
