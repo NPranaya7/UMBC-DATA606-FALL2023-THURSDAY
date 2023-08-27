@@ -22,7 +22,7 @@
 
 
 ## Experience ##
-**SONAVI LABS**
+**SONAVI LABS**   
 _Data Science Intern   
 Jul 2023 to currently   
 Baltimore, MD_
@@ -66,54 +66,30 @@ Jan 2019 to Mar 2019_
 
 ## SKILLS & INTERESTS ##
 - **Technical Skills:** Python, Data analysis, Excel, SQL, Statistics Tableau, Microsoft Power BI, Data Analysis, Data visualizations, Data Management, Data cleansing, ETL (Extract, Transform, Load), Data pipelines,
-Predictive modeling, Data-driven decision making, Machine Learning, Big Data, Apache Spark, Hadoop, Dask, Snowflake, Data Bricks, Docker, Edge Computing like Jetson Nano, and Rapids (GPU Accelerated Computing).
+Predictive modeling, Data-driven decision making, Machine Learning, Big Data, Apache Spark, Hadoop, Dask, Snowflake, Data Bricks, Docker, Edge Computing like Jetson Nano, and Rapids (GPU Accelerated Computing). Azure ML studio. 
 
 - **Soft Skills:** People Skills, Problem-Solving Ability, Leadership, Time Management, Communication.
+
+- **Hobbies:** Volleyball, Badminton, Video games.
 
 ## ACHIEVEMENT ##
 **Award Winner at MD New Venture Fellowship program 08 Nov’23,**
 - I was honored to be awarded a $ 5,000 grant towards the development of PNEUMA, a revolutionary neuro-technology product aimed at combatting stress and addressing the root causes of substance use disorder (SUD). 
   - Article:- https://technical.ly/startups/2023-maryland-new-venture-fellowship-program/
   - LinkedIn:- https://www.linkedin.com/posts/pranayamanikanta07_awardwinning-bwtech-fellowshipprogram-activity-7061735646876332032-gGaY?utm_source=share&utm_medium=member_desktop
+    
+**Badminton Championship, 2016 KL university(India)**
   
 ## PUBLICATIONS: ##
 **Defect Detection using Active Contour Method 30 Nov'19,**   
-_D4509118419 - International Journal of Recent Technology and Engineering (IJRTE)_
+_D4509118419 - International Journal of Recent Technology and Engineering (IJRTE)   
+Link: https://www.ijrte.org/portfolio-item/D4509118419/_
 - Conducted research utilizing Active Contour segmentation and infrared thermography for nondestructive testing. 
 - Developed an innovative method achieving 85% accuracy in classifying defects such as air, oil, water, and cracks in the subsurface area.
 - Improved defect detection efficiency by 30% and reduced false positives by 25%, enhancing inspection capabilities.
 
-
-## Bussiness Skills ##
-- Management and Leadership.
-- Project management.
-- Time management.
-- Problem-solving.
-- Communication Skills.
-
-## Technical/computer skills ##
-- Programming languages --> **C**, **Java**, **Python**.
-- Data Management.
-- Software proficiency --> Excell, Matlab, GitHub, Tableau, Google Colab, Jupiter notebook,.....
-- Operating Systems --> Windows, Mac OS, Linux.
-
-## Awards ##
-- Best Co-ordinator for National Level Technical Fest **"Samyak"**,2019 KL university(India).
-- Badminton Championship, 2016 KL university(India). 
-
-## Social activities ##
-- Video games.
-- Hiking.
-- Volunteering.
-- Traveling.
-- Playing Badminton.
-
 ## Certificates ##
-- [Machine Learning](https://coursera.org/share/6004b54663480e2953aa5841f9c26cf3).
-- [Deep Learning](https://coursera.org/share/eef1316a10ebe3590db22e1b652c80df).
-- [Learn Spanish: Basic Spanish Vocabulary Specialization](https://coursera.org/share/fbe78a7a29aebbe0805e60146f0a423c).
-- [Data Science](https://trainings.internshala.com/s/v/237938/d55b7788)
-
-
-## Publications ##
-- [Defect Detection using Active Contour Method](https://www.ijrte.org/wp-content/uploads/papers/v8i4/D4509118419.pdf).
+- _[Machine Learning](https://coursera.org/share/6004b54663480e2953aa5841f9c26cf3)._
+- _[Deep Learning](https://coursera.org/share/eef1316a10ebe3590db22e1b652c80df)._
+- _[Learn Spanish: Basic Spanish Vocabulary Specialization](https://coursera.org/share/fbe78a7a29aebbe0805e60146f0a423c)._
+- _[Data Science](https://trainings.internshala.com/s/v/237938/d55b7788)._
